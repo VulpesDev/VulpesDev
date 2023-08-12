@@ -4,7 +4,7 @@
 <p align="center">My enthusiasm knows no bounds when it comes to expanding my skill set. Over the past years, I have been working on a few projects and started my studies at 42Berlin. The challenges I have encountered there left me a bit puzzled at times, yet they have also honed my ability to grasp concepts with remarkable speed. Let's just say, I am all about embracing the unfamiliar and evolving with every step I take!</p>
 
 
-- 🔭 I’m currently working on [MiniRT](https://github.com/VulpesDev/MiniRT)
+- 🔭 I’m currently working on [MiniRT](https://github.com/VulpesDev/MiniRT), [Bayer coding challenge(Cypress)](https://github.com/qduong42/42_Bayer_Challenge_Test_Automation)
 
 - 🌱 I’m currently learning **Cypress, SalesForce**
 
