@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I am Tsvetoslav</h1>
-<p align="center">Programming has been my playground, ever since I was a kid. Eventually, I discovered game engines like Unity, then game development became my delightful hobby for around 4 years. However, now I am on the hunt for something fresh and exciting.</p>
+<p align="center">Programming has been my playground, ever since I was a kid. Eventually, I discovered game engines like <a href="https://unity.com/">Unity</a>, then game development became my delightful hobby for around 4 years. However, now I am on the hunt for something fresh and exciting.</p>
 
 <p align="center">My enthusiasm knows no bounds when it comes to expanding my skill set. Over the past years, I have been working on a few projects and started my studies at <a href="https://42berlin.de/">42Berlin</a>. The challenges I have encountered there left me a bit puzzled at times, yet they have also honed my ability to grasp concepts with remarkable speed. Let's just say, I am all about embracing the unfamiliar and evolving with every step I take!</p>
 
