@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MiniRT](https://github.com/VulpesDev/MiniRT), [Bayer coding challenge(Cypress)](https://github.com/qduong42/42_Bayer_Challenge_Test_Automation)
 
-- 🌱 I’m currently learning **Cypress, SalesForce**
+- 🌱 I’m currently learning **<a href="https://go.cypress.io">Cypress</a>, <a href="https://trailhead.salesforce.com/">SalesForce</a>**
 
 - 📫 How to reach me **tsvetivasilev@gmail.com**
 
