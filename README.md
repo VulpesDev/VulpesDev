@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Tsvetoslav</h1>
-<h4 align="center">I've been passionate about programming since childhood, spending years exploring game development with <a href="https://unity.com/">Unity</a>.</h4><h4 align="center">Now, I'm eager to take on new challenges and have recently started working developing <a href="https://en.wikipedia.org/wiki/Transaction_processing_system">TPSs</a>.</h4> <h4 align="center">My studies at <a href="https://42berlin.de/">42Berlin</a> have equipped me with the ability to quickly learn and adapt to new technologies, making me excited to tackle the complexities of this field.</h4>
+<h4 align="center">I've been passionate about programming since childhood, spending years exploring game development with <a href="https://unity.com/">Unity</a>.</h4><h4 align="center">Recently I started my professional career in developing <a href="https://en.wikipedia.org/wiki/Transaction_processing_system">TPSs</a>.</h4> <h4 align="center">My studies at <a href="https://42berlin.de/">42Berlin</a> have equipped me with the ability to quickly learn and adapt to new technologies, making me excited to tackle the complexities of this field.</h4>
 
 - 🔭 I’m currently working on **Humanter Remake**
 
