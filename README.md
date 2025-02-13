@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Being a decent human being**
 
-- 🌱 I’m currently learning **Banking, <a href="https://godotengine.org/">Godot</a>**
+- 🌱 I’m currently learning **Math, Banking, Electronics, <a href="https://godotengine.org/">Godot</a>**
 
 - 📫 How to reach me **tsvetivasilev@gmail.com**
 
